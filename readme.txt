@@ -1,3 +1,3 @@
 Git
-t is great::
+t great::
 add a new line a
